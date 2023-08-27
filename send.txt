@@ -1,0 +1,2 @@
+HELLO, This file is meant to test the Client - Server Connection using TCP.
+Go to "www.github.com/0chuck0/FTP_TCP_Socketprogramming" for the code.
